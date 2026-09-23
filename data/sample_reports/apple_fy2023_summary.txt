@@ -1,0 +1,73 @@
+Apple Inc. (AAPL) — Sample Financial Report Summary
+Fiscal Year 2023 (ended September 30, 2023)
+================================================
+
+INCOME STATEMENT HIGHLIGHTS
+Revenue: $383.3 billion (down 3% YoY from $394.3B)
+Gross Profit: $169.1 billion (Gross Margin: 44.1%)
+Operating Income: $114.3 billion (Operating Margin: 29.8%)
+Net Income: $97.0 billion (Net Margin: 25.3%)
+Earnings Per Share (diluted): $6.13
+
+SEGMENT BREAKDOWN
+  iPhone: $200.6B (52% of revenue, -3% YoY)
+  Mac: $29.4B (-27% YoY, post-COVID normalisation)
+  iPad: $28.3B (+0.1% YoY)
+  Wearables, Home & Accessories: $39.8B (-3% YoY)
+  Services: $85.2B (+16% YoY) ← fastest growing segment
+
+BALANCE SHEET HIGHLIGHTS
+Cash & Short-term investments: $61.6B
+Total Assets: $352.6B
+Total Debt: $109.3B
+Shareholders' Equity: $62.1B
+Debt-to-Equity Ratio: 176%
+
+CASH FLOW HIGHLIGHTS
+Operating Cash Flow: $114.0B
+Capital Expenditures: $10.7B
+Free Cash Flow: $103.3B
+Share Buybacks: $77.6B (returned to shareholders)
+Dividends Paid: $15.1B
+
+KEY RATIOS (FY2023)
+P/E Ratio (trailing): ~30.5x
+Price-to-Book: ~47x
+Return on Equity (ROE): 147.3%
+Return on Assets (ROA): 27.5%
+Current Ratio: 0.99
+Quick Ratio: 0.94
+
+MANAGEMENT COMMENTARY (Selected excerpts from earnings call)
+CEO Tim Cook: "We continued to grow our installed base to an all-time high
+across all product categories and geographies. Services set an all-time revenue
+record, reflecting our growing ecosystem and customer engagement."
+
+CFO Luca Maestri: "Our business performance drove EPS growth of 13% year-over-year.
+We returned over $24 billion to shareholders through dividends and buybacks during
+the September quarter, bringing total returns for the fiscal year to over $90 billion."
+
+RISK FACTORS (as disclosed in 10-K)
+1. Global economic conditions and consumer spending uncertainty
+2. China market exposure — approximately 19% of revenue from Greater China
+3. Regulatory scrutiny — EU Digital Markets Act App Store compliance requirements
+4. Supply chain concentration — primary manufacturing in Asia
+5. Competition from Android ecosystem and alternative platforms
+6. Dependence on iPhone segment (52% of revenue)
+
+FORWARD GUIDANCE (Q1 FY2024)
+Total revenue: Low to mid-single-digit growth YoY
+Gross margin: 45.0% to 46.0%
+Services expected to continue double-digit growth trajectory
+
+ANALYST CONSENSUS (as of report date)
+Recommendation: BUY
+Average target price: $198.00
+12-month high target: $240.00
+12-month low target: $150.00
+Number of analysts: 42 (28 BUY, 11 HOLD, 3 SELL)
+
+ESG HIGHLIGHTS
+Carbon neutral since 2020 (corporate operations)
+100% renewable electricity in all corporate facilities
+Goal: supply chain carbon neutral by 2030
